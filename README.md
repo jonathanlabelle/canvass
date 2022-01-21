@@ -1,4 +1,4 @@
-# TP1: Dessiner sur un canevas ASCII"
+# Dessiner sur un canevas ASCII
 
 
 ## Format Markdown (supprimer cette section avant la remise)
@@ -131,29 +131,7 @@ Ce programma a trois dépendances:
 ## Références
 
 Pour les algorithmes de Brensenham (pour la ligne et pour le cercle): le code est une version adaptée de 
-ce qu'on peut trouver [ici](https://pandoc.org/index.html) du code de Bert Timmerman.
+ce qu'on peut trouver [ici](https://gist.github.com/bert/1085538) du code de Bert Timmerman.
 
 Ainsi, le code de couleur ANSI a été fourni par Serge Dogny sur le Mattermost du cours
 
-## État du projet
-
-* [X] Le nom du dépôt GitLab est exactement `inf3135-automne2021-tp1` (Pénalité de
-  **50%**).
-* [X] L'URL du dépôt GitLab est exactement (remplacer `utilisateur` par votre
-  nom identifiant GitLab) `https://gitlab.info.uqam.ca/utilisateur/inf3135-automne2020-tp1`
-  (Pénalité de **50%**).
-* [X] L'utilisateur `dogny_g` a accès au projet en mode *Developer*
-  (Pénalité de **50%**).
-* [X] Le dépôt GitLab est un *fork* de [ce
-  dépôt](https://gitlab.info.uqam.ca/dogny_g/tp1-inf3135-a21)
-  (Pénalité de **50%**).
-* [X] Le dépôt GitLab est privé (Pénalité de **50%**).
-* [X] Le dépôt contient au moins un fichier `.gitignore`.
-* [X] Le fichier `Makefile` permet de compiler le projet lorsqu'on entre
-  `make`. Il supporte les cibles `html`, `test` et `clean`.
-* [X] Le nombre de tests qui réussissent/échouent avec la `make test` est
-  indiqué quelque part dans le fichier `README.md`.
-* [X] Les sections incomplètes de ce fichier (`README.md`) ont été complétées.
-* [X] L'en-tête du fichier est documentée.
-* [X] L'en-tête des déclarations des fonctions est documentée (*docstring*).
-* [X] Le programme ne contient pas de valeurs magiques.
