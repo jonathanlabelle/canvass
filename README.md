@@ -1,46 +1,14 @@
 # Dessiner sur un canevas ASCII
 
-
-## Format Markdown (supprimer cette section avant la remise)
-
-N'oubliez pas de bien exploiter le format Markdown.
-
-Sauter une ligne pour changer de paragraphe.
-
-Mettre les noms de fichier et bout de code courts entre apostrophes inversés.
-Par exemple, si vous parlez du fichier `Makefile`.
-
-Mettre les longs bouts de code dans des blocs de code (triples apostrophes
-inversés). Par exemple, vous pouvez donner un exemple de commande comme suit:
-
-```sh
-$ make
-$ ls -a
-```
-
-Utiliser des listes à puces ou des énumérations le plus possible (plus agréable
-à lire). Par exemple, pour décrire le contenu du projet:
-
-* `README.md`: ce fichier
-* `Makefile`: permet d'automatiser la compilation
-* etc.
-
-Bien aérer le contenu du fichier source (`README.md`). Éviter les longues
-lignes dans le fichier Markdown (par exemple, limiter à 80) pour une meilleure
-lisibilité avec un éditeur de texte.
-
 ## Description
 
 Ceci est un programme en C qui sert à créer un canvass ou à un lire un à partir d'un
 fichier texte. Il est possible à travers diverses options d'écrire et de colorier
 dans le canvass à partir de la ligne de commande. Ce projet à été créer dans le cadre
-du cours INF3135 à l'Université Du Québec À Montréal donné par Serge Dogny.
-
-La description du travail demandé peut se retrouver ici: sujet du [sujet du travail](sujet.md)
-
+du cours INF3135 à l'Université Du Québec À Montréal.
 ## Auteur
 
-Jonathan Labelle (LABJ28039006)
+Jonathan Labelle
 
 ## Fonctionnement
 
@@ -116,8 +84,6 @@ Pour lancer la suite de test, utilisez la commande
 ```sh
 make test
 ```
-
-Sur le serveur Unix de l'uqam, tout les tests fonctionnent.
 
 ## Dépendances
 
