@@ -99,5 +99,3 @@ Ce programma a trois dépendances:
 Pour les algorithmes de Brensenham (pour la ligne et pour le cercle): le code est une version adaptée de 
 ce qu'on peut trouver [ici](https://gist.github.com/bert/1085538) du code de Bert Timmerman.
 
-Ainsi, le code de couleur ANSI a été fourni par Serge Dogny sur le Mattermost du cours
-
